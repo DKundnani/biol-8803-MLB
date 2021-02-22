@@ -1,7 +1,7 @@
 # biol-8803-MLB
 ## Machine Learning in Computation Biology
 
-###Homework2
+### Homework2
 
 Clustering alogrithms like PCA, TSNE and UMAP. 
 
